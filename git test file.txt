@@ -8,3 +8,6 @@ diff를 써보자
 
 master 브랜치에서 수정
 test1234
+
+이건 squash and merge 입니다.
+감사합니다.
